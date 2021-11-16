@@ -42,7 +42,7 @@ class Movie {
 
 21.  Click **Generate constructor** 
 
-<img src="https://lh4.googleusercontent.com/xN0Q-0WvMZt_ABMcaSViz1E0JqVeAAmSTuPf2tBiWkr2bl-hCORllBPv6qPNfK7OCap-qEn1HOxhI-y1PteWYSbf_p_u-RNoLHNXQFNR0NJ4S-MoFx7JYAnV9FMQo1RSI5eE-gAD" alt="img" style="zoom: 50%;" />
+<img src="https://lh4.googleusercontent.com/xN0Q-0WvMZt_ABMcaSViz1E0JqVeAAmSTuPf2tBiWkr2bl-hCORllBPv6qPNfK7OCap-qEn1HOxhI-y1PteWYSbf_p_u-RNoLHNXQFNR0NJ4S-MoFx7JYAnV9FMQo1RSI5eE-gAD" alt="img" width="350" />
 
 
 
@@ -153,7 +153,7 @@ import 'package:flutter_movie_app_starter/movie.dart';
 
 30. Run the app again, we will see the same result that we had before, but with a good approach, and rating value ^_^.
 
-<img src="https://lh4.googleusercontent.com/Lo8LJJy3r27BNM6GALQRjex7fRO7_szfCsB8fWukhG-abOafUWtrdA4tmpvagjsc-5xG_Kbd8sYxTdZ4I6ZFU57BhjWcNA0wpmz9rhuild1w_Sr1IWLwITEj127TFgtKIzqHnfh5" alt="img" style="zoom:50%;" />
+<img src="https://lh4.googleusercontent.com/Lo8LJJy3r27BNM6GALQRjex7fRO7_szfCsB8fWukhG-abOafUWtrdA4tmpvagjsc-5xG_Kbd8sYxTdZ4I6ZFU57BhjWcNA0wpmz9rhuild1w_Sr1IWLwITEj127TFgtKIzqHnfh5" alt="img" width="350" />
 
 
 
@@ -193,9 +193,11 @@ import 'package:flutter_movie_app_starter/movie.dart';
 
 **The final result** 
 
-**<img src="https://lh3.googleusercontent.com/MfOiYBotK_S_aObhR4TygpVNQucCMepGpF8hr_QSQozy6k04763pq75F8Jod95qmXt1bTfBSfOkkMC8c4actEr_uIkYAMqs-8zgx9njH3nRJroL1eSprc-2e-MP6Tc4nnn7c3f3n" alt="img" style="zoom:50%;" />**
+**<img src="https://lh3.googleusercontent.com/MfOiYBotK_S_aObhR4TygpVNQucCMepGpF8hr_QSQozy6k04763pq75F8Jod95qmXt1bTfBSfOkkMC8c4actEr_uIkYAMqs-8zgx9njH3nRJroL1eSprc-2e-MP6Tc4nnn7c3f3n" alt="img" width="350" />**
 
-![img](https://lh3.googleusercontent.com/sWB_R-NssSz1SChYdsLQbcXNj6NuPquFLLMzOnv8iDtc73uqAJNiofOc8B0-QPYbtlVLPWGVSj3S1v9LV54D2HZd-ra0bi_TbHjLGgPLFl-vqa5oy22r60hvIdVEF-BQTcCICx4r)
+
+<img src="https://lh3.googleusercontent.com/sWB_R-NssSz1SChYdsLQbcXNj6NuPquFLLMzOnv8iDtc73uqAJNiofOc8B0-QPYbtlVLPWGVSj3S1v9LV54D2HZd-ra0bi_TbHjLGgPLFl-vqa5oy22r60hvIdVEF-BQTcCICx4r" alt="img" width="350" />
+
 
 
 
