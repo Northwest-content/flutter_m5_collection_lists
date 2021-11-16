@@ -47,7 +47,7 @@
 3. Using **Container** widget to add some padding for our **Text** widget.
 4. Using **Text** widget to show the name of the movie; for example, here we used Frozen movie as an example. Also, we added some text styles such as font-weight and font size.
 
-<img src="https://lh5.googleusercontent.com/BOMWNAolE4vzRFtWYKSiEDLs4NCQpuX8TDkksoa4HBtCDrDk-i4Cxmx3iWboS7tryYqnIUGwMs5MtgZHH0xufr5ElIpOLIfHcVwVvW803L4AwOie4dcRDAhQNVTmIy3EFmQ2RTX_" alt="img" style="zoom:33%;" />
+<img src="https://lh5.googleusercontent.com/BOMWNAolE4vzRFtWYKSiEDLs4NCQpuX8TDkksoa4HBtCDrDk-i4Cxmx3iWboS7tryYqnIUGwMs5MtgZHH0xufr5ElIpOLIfHcVwVvW803L4AwOie4dcRDAhQNVTmIy3EFmQ2RTX_" alt="img" width="350" />
 
 
 
@@ -71,7 +71,7 @@
 2. Here, we used **Image.asset** widget to show the frozen image inside the assets folder.
 3. Changing the width and height for the image.
 
-<img src="https://lh5.googleusercontent.com/P8xSDlW_ZF7KOK2JgsP-iNaCHXHonnOQW1hUEdECl75DleHBblRztdXRxelVFPoK_ajMTbzhWv-Sl9YcEFedkD5f1I5ajC7hZAgaTQGn5JEI79vCs6-EX50mMXPxAdv9RXwdGpS7" alt="img" style="zoom:33%;" />
+<img src="https://lh5.googleusercontent.com/P8xSDlW_ZF7KOK2JgsP-iNaCHXHonnOQW1hUEdECl75DleHBblRztdXRxelVFPoK_ajMTbzhWv-Sl9YcEFedkD5f1I5ajC7hZAgaTQGn5JEI79vCs6-EX50mMXPxAdv9RXwdGpS7" alt="img" width="350" />
 
 Here, we add the name of the movie with its poster, but we don’t like the style of the tile widget.
 
@@ -94,19 +94,17 @@ Here, we add the name of the movie with its poster, but we don’t like the styl
             ),
 ```
 
-![img](https://lh4.googleusercontent.com/eJE5kyRRGbG2FSHvrVUTLSgOc3Mz-INqpyncWRZL_0Vc8H2fGqlgMj7Mk0cYePgBgg_zJi-GAp7pMw1GT-UoHPipOXyMVWxWP0kw2j8Bp5t6PGLSYzr_JkNz8MeLbpUkDHK5GuRl)
+<img src="https://lh4.googleusercontent.com/eJE5kyRRGbG2FSHvrVUTLSgOc3Mz-INqpyncWRZL_0Vc8H2fGqlgMj7Mk0cYePgBgg_zJi-GAp7pMw1GT-UoHPipOXyMVWxWP0kw2j8Bp5t6PGLSYzr_JkNz8MeLbpUkDHK5GuRl" alt="img" width="350" />
 
 
 
 Now we have a good tile widget for our movies.
 
-![img](https://lh6.googleusercontent.com/9hdCbAoPSajX4-feFKEMCaem4qXJr41tqlGfwOvu2f8-au8r9M3d64AGr7F0ysK2PjoDgvSM7kavZNKba2j5XsJgCKaVThDECQvtHqtis_VNIhFRNU8ia3rdQoqwevmt45XsUGNN)
+<img src="https://lh6.googleusercontent.com/9hdCbAoPSajX4-feFKEMCaem4qXJr41tqlGfwOvu2f8-au8r9M3d64AGr7F0ysK2PjoDgvSM7kavZNKba2j5XsJgCKaVThDECQvtHqtis_VNIhFRNU8ia3rdQoqwevmt45XsUGNN" alt="img" width="350" />
 
 
 
 
-
-\
 
 
 
