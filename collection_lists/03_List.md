@@ -23,7 +23,7 @@ The most common collection in nearly every programming language is the array or 
 
 > Here, we created a list variable that holds the names of our movies, and the type of these names is **String**. So, the **movies** List variable will only hold a String type variable. 
 
-<img src="https://lh6.googleusercontent.com/MYiSn2YclSUQoo50fMAusvSzrFZYBQj0ohUIui01RX84ZgnSwszZVlO_1aI0_oqIhOn0wsMoBeQ9a4BB7Uvd9l99Io2KFmG_9R65iFG4Fo9M3lHU41XTNYbD04-TLUAxuG8IsWtf" alt="img" width="550" />
+![screenshot](https://lh6.googleusercontent.com/MYiSn2YclSUQoo50fMAusvSzrFZYBQj0ohUIui01RX84ZgnSwszZVlO_1aI0_oqIhOn0wsMoBeQ9a4BB7Uvd9l99Io2KFmG_9R65iFG4Fo9M3lHU41XTNYbD04-TLUAxuG8IsWtf)
 
 > **Note:** the List starts from zero, where 0 is the index of the first value. If you want to access the second value you will increase the index by one.
 

@@ -63,7 +63,7 @@ Card(
 
 13. After we replaced the scaffold body, you will see this result. 
 
-<img src="https://lh6.googleusercontent.com/7pKfusFSZ1_YtuxZFfRyzxspxovO7WKAQ6Ideke9LGXPT8yP_PqvGypBTEkTr0-LZIZ_Wea6LAlDD3XU0QyxVWI0mFQDAoj0cAKHjXjTGCD_R3QxRXYYEgItBWvecOafUQv37tP8" alt="img" width="350" />
+![screenshot](https://lh6.googleusercontent.com/7pKfusFSZ1_YtuxZFfRyzxspxovO7WKAQ6Ideke9LGXPT8yP_PqvGypBTEkTr0-LZIZ_Wea6LAlDD3XU0QyxVWI0mFQDAoj0cAKHjXjTGCD_R3QxRXYYEgItBWvecOafUQv37tP8)
 
 As you see in the above screenshot, we will have a list of numbers that start from zero to 9. The reason why we got this result; because our **itemBuilder** named argument inside the **ListView** widget returns a **Text** widget, and this **Text** widget takes the index, and as we know that the list starts from zero, where 0 is the index of the first value that why we got zero on the first value, and this index will increase by one until the end of the List. We got 9 because we have ten items inside the **movies** list.
 
@@ -106,7 +106,7 @@ As you see in the above screenshot, we will have a list of numbers that start fr
 
 >  After we paste the widget inside the return **itermBuilder** function, we will have ten tiles that show the Toy Story movie.
 
-<img src="https://lh6.googleusercontent.com/jyE1hSZxCuGuxe2t4KkPx83wS4JLw9fbNrhZSKkwSlMdEdwjI7zzv95Q6XjzqXt9NIh6fot6pm2PhYreJIAfRcAfyBVNkLNO79uRtuVqifbXoWVnyB0zgozFheRn3KeE1FzzbmX5" alt="img" width="350" />
+![screenshot](https://lh6.googleusercontent.com/jyE1hSZxCuGuxe2t4KkPx83wS4JLw9fbNrhZSKkwSlMdEdwjI7zzv95Q6XjzqXt9NIh6fot6pm2PhYreJIAfRcAfyBVNkLNO79uRtuVqifbXoWVnyB0zgozFheRn3KeE1FzzbmX5)
 
 
 
@@ -145,11 +145,12 @@ As you see in the above screenshot, we will have a list of numbers that start fr
 
 
 
-Finally, </br>
-<img src="https://lh3.googleusercontent.com/_6stenCzXIGkbzoECN3_BM4GY7uYlc2eG4kgg8S8xQ58gP-0jifHDKi6LNAzYpLkYOPfvgc74cnHo5oLuhf5oi30Pz8KxhHf4Z2nJqLeRwZ6NabupK1TWIJRF0A2Kdgls_oX9jME" alt="img" width="250" />
+Finally,   
+
+![screenshot](https://lh3.googleusercontent.com/_6stenCzXIGkbzoECN3_BM4GY7uYlc2eG4kgg8S8xQ58gP-0jifHDKi6LNAzYpLkYOPfvgc74cnHo5oLuhf5oi30Pz8KxhHf4Z2nJqLeRwZ6NabupK1TWIJRF0A2Kdgls_oX9jME)
 
 
-**<img src="https://lh5.googleusercontent.com/F20HQmtLu9HtT_hoYOq8oPuUh2c78fVCnrAY2gyRlIepYhxbdIlrlLehCUO9UcvC1BDqPgUD4A_dM8ve8oYWwkgqAUgPYxzGcMA76SEO7a0B9LlgW08I9SkMzLceVzYYcpnJB7nK" alt="img" width="350" />**
+**![screenshot](https://lh5.googleusercontent.com/F20HQmtLu9HtT_hoYOq8oPuUh2c78fVCnrAY2gyRlIepYhxbdIlrlLehCUO9UcvC1BDqPgUD4A_dM8ve8oYWwkgqAUgPYxzGcMA76SEO7a0B9LlgW08I9SkMzLceVzYYcpnJB7nK)**
 
 
 

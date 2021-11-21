@@ -73,7 +73,7 @@ Hover the **Card** widget, then click,
 
 Then click **Wrap with widget...**
 
-<img src="https://lh4.googleusercontent.com/U6EfiNcBJV0lNQqePZOgfxAygj8tYuDqijz9lxFIs_dcVBQT1JIce7lfRpKfew3YmwPRdE47il6Zg-7jyMrdYtoH0AGx-8ycU5-d5vmNSwVd07SZab--8gy6c1q4CEU5xalG2fFe" alt="img" width="450" />
+![screenshot](https://lh4.googleusercontent.com/U6EfiNcBJV0lNQqePZOgfxAygj8tYuDqijz9lxFIs_dcVBQT1JIce7lfRpKfew3YmwPRdE47il6Zg-7jyMrdYtoH0AGx-8ycU5-d5vmNSwVd07SZab--8gy6c1q4CEU5xalG2fFe)
 
 Click **Wrap with Column**
 
@@ -83,7 +83,7 @@ Click **Wrap with Column**
 
 After that copy the Card widget tree, then paste it down the first **Card** widget three times.
 
-<img src="https://lh6.googleusercontent.com/cHmiFr7JkV-z8a_mYcpIro7kUwaiBDY7MDNAYB9I0JtM7cldeMjH1biROHqLNeM8vgrcTvQ7Kz5Opg9vx15RPv0zOVwBm4VId8vBNRDXr0b8lUEqLV23ymeqSlzQr_0_FMPlex0q" alt="img" width="450" />
+![screenshot](https://lh6.googleusercontent.com/cHmiFr7JkV-z8a_mYcpIro7kUwaiBDY7MDNAYB9I0JtM7cldeMjH1biROHqLNeM8vgrcTvQ7Kz5Opg9vx15RPv0zOVwBm4VId8vBNRDXr0b8lUEqLV23ymeqSlzQr_0_FMPlex0q)
 
 
 
@@ -93,14 +93,15 @@ Now, change the **index** for both the second and third movie tiles.
 
 >  Don’t forget to change the **title** index & **imgPath** index.
 
-<img src="https://lh5.googleusercontent.com/KY_WlLIpgdVDparErMhqxjmLULuaf9PYChr2nY2wdS89b4v6dGVU10CitI-zvqmzyOt56osxa6V1dxeS_-uPMa21WMY1FDGaL5lVJyLYZDsgrXRhPR7DAolrmtiBnL2agWxhdQtH" alt="img" width="450" />
+![screenshot](https://lh5.googleusercontent.com/KY_WlLIpgdVDparErMhqxjmLULuaf9PYChr2nY2wdS89b4v6dGVU10CitI-zvqmzyOt56osxa6V1dxeS_-uPMa21WMY1FDGaL5lVJyLYZDsgrXRhPR7DAolrmtiBnL2agWxhdQtH)
 
 
 
 
 
-**The final result** </br>
-<img src="https://lh3.googleusercontent.com/7b-G8ORUH5Pu0iueRBybrtF5l5u4MY9vzwLdpVp-WiA-972SW5jsHKLYURqKGpI8zNm7zS5iIoKrIvtUliZU0DfvMAoKQxsNt98yRuJ9Xrc_87LYESSGZEVwHbuw42MUtLP1Sh8E" alt="img" width="350" />
+**The final result**   
+
+![screenshot](https://lh3.googleusercontent.com/7b-G8ORUH5Pu0iueRBybrtF5l5u4MY9vzwLdpVp-WiA-972SW5jsHKLYURqKGpI8zNm7zS5iIoKrIvtUliZU0DfvMAoKQxsNt98yRuJ9Xrc_87LYESSGZEVwHbuw42MUtLP1Sh8E)
 
 
 
@@ -111,12 +112,12 @@ Now, try to add more **Movie** tiles inside the **Column** widget.
 
 After adding more Movie tiles inside the **Column** widget, you will see an error down on the screen. 
 
-<img src="https://lh6.googleusercontent.com/OBoQu64xE98yY4uHDnjzVU6ff9P7oewwM7LFr-UTgL3MfrSdVLC3rSqO0ijcODb4ZfpOIv4KhDRiSWWf7MP9T_BHHbMMGtv4R84301VQeiksGf0JXHKyV_7GhkjgNdHXRFrs-2JP" alt="img" width="350" />
+![screenshot](https://lh6.googleusercontent.com/OBoQu64xE98yY4uHDnjzVU6ff9P7oewwM7LFr-UTgL3MfrSdVLC3rSqO0ijcODb4ZfpOIv4KhDRiSWWf7MP9T_BHHbMMGtv4R84301VQeiksGf0JXHKyV_7GhkjgNdHXRFrs-2JP)
 
 
 Also, if you see the **DEBUG CONSOLE**, you will see an **Exception**. We got this error because the **Column** widget will take the entire screen, the **widgets** inside the **children** named argument; It took up more space than the height of the screen so we got this error.
 
-<img src="https://lh6.googleusercontent.com/3LE8Mf32ULbTDhUwV8On7ff1kX2ovvyno4p5XdaSRvg3afYcsdY5oJAmhQr3RItH9tr7v7zwzXefaxPlYSudKiJDMr6ZWOkAZK1odNJ5sTkmVWQSzSSPxiVq-YIqXEYwVLpxXD7m" alt="img" width="350" />
+![screenshot](https://lh6.googleusercontent.com/3LE8Mf32ULbTDhUwV8On7ff1kX2ovvyno4p5XdaSRvg3afYcsdY5oJAmhQr3RItH9tr7v7zwzXefaxPlYSudKiJDMr6ZWOkAZK1odNJ5sTkmVWQSzSSPxiVq-YIqXEYwVLpxXD7m)
 
 
 
