@@ -1,4 +1,3 @@
-# Showing the values inside the List
 
 
 

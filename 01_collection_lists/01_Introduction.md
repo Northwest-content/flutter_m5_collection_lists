@@ -1,4 +1,4 @@
-# Movie App
+## Movie App
 
 In this lesson, we will create a movie app
 

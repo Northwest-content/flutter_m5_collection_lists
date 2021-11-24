@@ -1,4 +1,3 @@
-# List
 
 The most common collection in nearly every programming language is the array or ordered group of objects [1] [dart.dev](https://dart.dev/). 
 

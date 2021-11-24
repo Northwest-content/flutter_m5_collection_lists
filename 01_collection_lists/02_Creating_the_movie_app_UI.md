@@ -1,4 +1,3 @@
-# Creating the movie app UI
 
 
 
