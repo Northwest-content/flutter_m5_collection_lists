@@ -1,9 +1,11 @@
+The most common collection in nearly every programming language is the array or ordered group of objects, which in our current lovely language is known as `List`. [1] [dart.dev](https://dart.dev/).
 
-The most common collection in nearly every programming language is the array or ordered group of objects [1] [dart.dev](https://dart.dev/). 
+**List** can hold a collection of objects inside it, and these objects should be the same type.
 
+In the movie app, we need two lists: one for holding the movie's names, and the other for images paths inside the **assets** folder.
+Right now, we will create a `List` of movies that holds the movie's names; Later, we will create the other `List` for the images.
 
-
-7. **List** can hold a collection of variables inside it, and these variables should be the same type. In the movie app, we will need two lists. One will hold the names of our movies, and the other one is for image paths inside the **assets** folder. Right now, we will create a list of movies that holds the names of the movies; later we will create the other list for the images. Replace `// TODO: #2 Create movies list ` with 
+6. Replace `// TODO: #2 Create movies list` with the code below:
 
 ```dart
  List movies = [
@@ -20,53 +22,8 @@ The most common collection in nearly every programming language is the array or 
   ];
 ```
 
-> Here, we created a list variable that holds the names of our movies, and the type of these names is **String**. So, the **movies** List variable will only hold a String type variable. 
+> We created a `List` variable that holds the names of the movies, and the type of these names is **String**. Thus, the **movies** `List` variable only holds a String type value.
 
 ![screenshot](https://lh6.googleusercontent.com/MYiSn2YclSUQoo50fMAusvSzrFZYBQj0ohUIui01RX84ZgnSwszZVlO_1aI0_oqIhOn0wsMoBeQ9a4BB7Uvd9l99Io2KFmG_9R65iFG4Fo9M3lHU41XTNYbD04-TLUAxuG8IsWtf)
 
-> **Note:** the List starts from zero, where 0 is the index of the first value. If you want to access the second value you will increase the index by one.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> **Note:** Remember that in programming, if we have a list with the length `n`, we always count from 0 to `n-1`, whereas 0 refers to the first element of the list and `n-1` to the last element.
